@@ -1,3 +1,5 @@
-👀 hi, i am pablusha
-
-😼 @strokegmd my bro
+- 👀 hi, i am pablusha
+- 😼 @strokegmd my bro
+- 🧇 i know c#, python, java, and other stuff
+- 🏿 interested in microcontrollers/system administrating
+- 🐧 i used linux btw
