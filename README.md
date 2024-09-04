@@ -1,5 +1,3 @@
-# всем ппривет я паблуша
+# ⚡ всем привет я паблуша
 
-я умею кодить всякой говно на c# и пайтане
-
-знаю еще чота какаиета языки прогания
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) пайтааан
