@@ -1,3 +1,3 @@
 # ⚡ всем привет я паблуша
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" height="16" /> пайтнннн
+## языки, которые я знаю
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="18" height="18" /> python
