@@ -28,3 +28,5 @@
 - 🧇 i know **python and c-like** langs
 - 🏿 interested in **govnocoding**
 - 🐧 **i use rach btw**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablushaa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
