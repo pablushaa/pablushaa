@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=white&label=zvosolider&labelColor=%235865f2">
-  <a href="https://t.me/pablusha" target="_blank">
+  <a href="https://t.me/zvosolider" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"/>
   </a>
 </div>
