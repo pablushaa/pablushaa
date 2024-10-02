@@ -27,7 +27,7 @@
 
 <p align="center">
 
-- 👀 hi, i am **pablusha**
+- 👀 hi, i am **zvo solider**
 - 😼 **@strokegmd** my bro
 - 🧇 i know **python and c-like** langs
 - 💩 interested in **govnocoding**
