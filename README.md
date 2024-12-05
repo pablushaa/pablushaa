@@ -33,4 +33,4 @@
 - 💩 interested in **govnocoding**
 - 😭 **i dont use rach btw**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablushaa&theme=dark)](https://github.com/zvosolider)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablushaa&theme=dark)](https://github.com/pablushaa)
