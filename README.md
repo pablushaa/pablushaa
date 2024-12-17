@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img alt="arch" src="https://img.shields.io/badge/main_OS-gray?style=for-the-badge&logo=windows&logoColor=white&label=windows&labelColor=blue">
+  <img alt="arch" src="https://img.shields.io/badge/main_OS-gray?style=for-the-badge&logo=arch&logoColor=white&label=arch&labelColor=blue">
   <img alt="arch" src="https://img.shields.io/badge/editor-gray?style=for-the-badge&logoColor=white&label=vscode&labelColor=blue">
   <img alt="cpu" src="https://img.shields.io/badge/i3--10105-gray?style=for-the-badge&logo=intel&logoColor=white&label=%20&labelColor=%230271c7">
   <img alt="gpu" src="https://img.shields.io/badge/gtx_1650-gray?style=for-the-badge&logo=nvidia&logoColor=white&label=%20&labelColor=%237fbd12">
@@ -31,6 +31,6 @@
 - 😼 **@strokegmd** my bro
 - 🧇 i know **python and c-like** langs
 - 💩 interested in **govnocoding**
-- 😭 **i dont use rach btw**
+- 🌿 **i use rach btw**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablushaa&theme=dark&exclude_repo=AllahClientRecode)](https://github.com/pablushaa)
