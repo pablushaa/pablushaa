@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img alt="arch" src="https://img.shields.io/badge/main_OS-gray?style=for-the-badge&logo=arch&logoColor=white&label=arch&labelColor=blue">
-  <img alt="arch" src="https://img.shields.io/badge/editor-gray?style=for-the-badge&logoColor=white&label=vscode&labelColor=blue">
+  <img alt="arch" src="https://img.shields.io/badge/main_OS-gray?style=for-the-badge&logo=archlinux&logoColor=white&label=arch&labelColor=blue">
+  <img alt="code" src="https://img.shields.io/badge/editor-gray?style=for-the-badge&logoColor=white&label=vscode&labelColor=blue">
   <img alt="cpu" src="https://img.shields.io/badge/i3--10105-gray?style=for-the-badge&logo=intel&logoColor=white&label=%20&labelColor=%230271c7">
   <img alt="gpu" src="https://img.shields.io/badge/gtx_1650-gray?style=for-the-badge&logo=nvidia&logoColor=white&label=%20&labelColor=%237fbd12">
   <img alt="stars" src="https://img.shields.io/github/stars/pablushaa?style=for-the-badge">
