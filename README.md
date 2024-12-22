@@ -14,7 +14,7 @@
 ![stars](https://img.shields.io/github/stars/pablushaa?style=flat)
 ![views](https://komarev.com/ghpvc/?username=pablushaa)
 
-# 🖥 Hardware & Software
+## 🖥 Hardware & Software
 
 <div>
   <img alt="arch" src="https://img.shields.io/badge/main_OS-gray?style=for-the-badge&logo=archlinux&logoColor=white&label=arch&labelColor=blue">
@@ -23,7 +23,7 @@
   <img alt="gpu" src="https://img.shields.io/badge/gtx_1650-gray?style=for-the-badge&logo=nvidia&logoColor=white&label=%20&labelColor=%237fbd12">
 </div>
 
-# 👤 Socials
+## 👤 Socials
 
 <div>
   <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=white&label=pablusha&labelColor=%235865f2">
