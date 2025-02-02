@@ -1,6 +1,6 @@
-<img alt="pic" src="https://i.redd.it/odvez5dbf98e1.jpeg" width=70%>
+<div align="center"> <img alt="pic" src="https://i.redd.it/odvez5dbf98e1.jpeg" width=70%> </div>
 
-# 👋 About me
+# <div align="center">👋 About me</div>
 
 - 👀 Hi, i am **pablusha**
 - 🇷🇺 From **Russia**
@@ -14,7 +14,7 @@
 ![stars](https://img.shields.io/github/stars/pablushaa?style=flat)
 ![views](https://komarev.com/ghpvc/?username=pablushaa)
 
-## 🖥 Hardware & Software
+# <div align="center">🖥 Hardware & Software</div>
 
 <div>
   <img alt="windows" src="https://img.shields.io/badge/main_OS-gray?style=for-the-badge&logo=windows&logoColor=white&label=windows&labelColor=blue">
@@ -23,7 +23,7 @@
   <img alt="gpu" src="https://img.shields.io/badge/gtx_1650-gray?style=for-the-badge&logo=nvidia&logoColor=white&label=%20&labelColor=%237fbd12">
 </div>
 
-## 👤 Socials
+# <div align="center">👤 Socials</div>
 
 <div>
   <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=white&label=pablusha&labelColor=%235865f2">
